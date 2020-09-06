@@ -1,0 +1,18 @@
+.navbar-light{
+    background-color: rgb(27, 56, 75);
+}
+
+/* Modify the backgorund color */ 
+.bg-bg { 
+	background-color: rgb(128, 49, 61); 
+} 
+hr.new5 {
+    border: 2px solid rgb(189, 160, 105);
+    border-radius: 5px;
+  }
+/*div.divx{
+    
+      display: inline-block;
+    
+
+}*/
